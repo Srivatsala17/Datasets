@@ -12,9 +12,6 @@
 
 ## Dataset Selection:
 
-- **Google Books API:** Use the `requests` library in Python to fetch book data from the Google Books API and convert it into a dataframe using `Pandas` library.
-- **Amazon Books Dataset:** Download and preprocess the Amazon books dataset from Kaggle with the help of kaggle API.
-- **Amazon Book Reviews Dataset:** Download and preprocess the Amazon book reviews dataset from Kaggle with the help of kaggle API.
-
->[!Note]
-> There are multiple files inside the Amazon Books dataset and Amazon book reviews dataset. We only going to use books_df.csv and books_data.csv files from Amazon books dataset and Amazon book reviews respectively.
+1. Google Books API: Provides a wide range of book data, including metadata, descriptions, and categories.
+2. Amazon Books Dataset: Contains detailed information about books available on Amazon, including titles, authors, genre, typr, price, rating and publication details.
+3. Amazon Book Reviews Dataset: Includes ratings counts for books on Amazon, which can be used for sentiment analysis and understanding user preferences.
