@@ -6,6 +6,7 @@
    `{"username":"srivatsalaka","key":"4387c6aa13bd61518a0370a07b936df1"}`
 - pip install kaggle on terminal to use kaggle library
 - By running this code, 3 datasets will be downloaded. But we doing to use only one among these three (books_df.csv)
+- Columns = title, author, main genre, subgenre, type, price, rating, no of people who rated, url.
  
 # Code explanation
 
